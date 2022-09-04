@@ -1,2 +1,2 @@
-const connections = require("./connecting.js")
+const connections = require("./second")
 console.log("hello  world",connections)
