@@ -1,17 +1,14 @@
 {
-  "name": "ayush",
+  "name": "expresstutorial",
   "version": "1.0.0",
-  "description": "my First package",
+  "description": "Learning Express js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ayush",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.19"
   }
 }
